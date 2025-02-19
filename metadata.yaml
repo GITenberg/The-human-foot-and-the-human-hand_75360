@@ -1,0 +1,27 @@
+_repo: The-human-foot-and-the-human-hand_75360
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Humphry, George Murray
+    gutenberg_agent_id: '57961'
+    url: http://www.gutenberg.org/2009/agents/57961
+description: ''
+gutenberg_issued: '2025-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75360'
+language: en
+pgterms:marc905: 20230610064408humphry
+pgterms:marc906: '1861'
+pgterms:marc907: UK
+production_note: Thiers Halliwell, Sonya Schermann and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aCambridge :$bMacmillan and Co, $c1861.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The human foot and the human hand
+url: http://www.gutenberg.org/ebooks/75360
